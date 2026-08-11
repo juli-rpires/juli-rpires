@@ -1,16 +1,43 @@
-## Hi there 👋
+# Oi, eu sou a Júlia 💜
 
-<!--
-**juli-rpires/juli-rpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Interessada em programação, tecnologia e desenvolvimento  
+🚀 Explorando projetos, automação e tecnologia criativa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,mysql" />
+</p>
+
+---
+
+### 🌱 Atualmente estudando
+
+- Programação
+- Estruturas de dados
+- Banco de dados
+- Desenvolvimento de sistemas
+- Linux
+- Git e GitHub
+
+---
+
+### 🚀 Projetos
+
+📌 **Cyberdeck**
+> Projeto experimental envolvendo hardware, Linux e tecnologia portátil.
+
+---
+
+### 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julia.rpires&show_icons=true&theme=dark)
+
+---
+
+### 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/júliaramos)
