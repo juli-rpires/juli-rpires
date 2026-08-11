@@ -32,12 +32,6 @@
 
 ---
 
-### 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juli-rpires&show_icons=true&theme=dark)
-
----
-
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/júliaramos)
