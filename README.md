@@ -1,4 +1,4 @@
-# Oi, eu sou a Júlia 💜
+# Oi, eu sou a Júlia 🩷
 
 🎓 Estudante de Ciência da Computação  
 💻 Interessada em programação, tecnologia e desenvolvimento  
